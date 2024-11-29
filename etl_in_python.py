@@ -1,1 +1,3 @@
 print("name")
+
+print("rutu")
